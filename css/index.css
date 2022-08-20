@@ -210,4 +210,7 @@ main{
 		width: calc(90% - 40px);
 		margin-left: 10%;
 	}
+	#preloader{
+		background-size: 50%;
+	}
 }
